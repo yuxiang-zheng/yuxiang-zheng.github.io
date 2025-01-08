@@ -13,8 +13,8 @@ I obtained my Ph.D. from the University of British Columbia, the Master of Scien
 Please feel free to reach out and connect via yuxiang.zheng@rutgers.edu!
 
 ## CV
+{% include_relative _includes/cv.md %}
 
-
+##Research
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
