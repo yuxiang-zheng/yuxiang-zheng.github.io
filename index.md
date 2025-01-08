@@ -10,7 +10,7 @@ Research interests: archival-based studies in financial accounting - with specia
 
 I obtained my Ph.D. from the University of British Columbia, the Master of Science degree in Finance and Economics from the London School of Economics and the Bachelor of Science degree in Financial Engineering from Wuhan University.
 
-Please feel free to reach out and connect via yuxiang.zheng@rutgers.edu!
+Please feel free to reach out and connect via <a href="yuxiang.zheng@rutgers.edu">yuxiang.zheng@rutgers.edu</a>!
 
 ## CV
 {% include_relative _includes/cv.md %}
