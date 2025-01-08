@@ -1,28 +1,32 @@
 <div class="publications">
-  
-<ol class="bibliography">
 
-<h4 style="margin:0 10px 0;">Publication and Conditional Acceptance</h4>  
+  <h4 style="margin: 0 10px;">Publication and Conditional Acceptance</h4>
 
-<div>
-<div class="title"> [2] <strong>Can Investors Learn From Patent Documents? Evidence from Textual Analysis</a></strong><em>, solo-authored  </em> </div>
- <ul>
-     <li>  Developed from first chapter of dissertation </li> 
-     <li>  Conditionally Accepted at Contemporary Accouting Research </li> 
-     
-  </ul>
+  <ol class="bibliography">
+    <li>
+      <div class="title">
+        <strong>Can Investors Learn From Patent Documents? Evidence from Textual Analysis</strong>
+        <em>, solo-authored</em>
+      </div>
+      <ul>
+        <li>Developed from first chapter of dissertation</li>
+        <li>Conditionally Accepted at Contemporary Accounting Research</li>
+      </ul>
+    </li>
+    <li>
+      <div class="title">
+        <strong>
+          <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429511">
+            Strategic Scientific Disclosure - Evidence from the Leahy-Smith America Invents Act
+          </a>
+        </strong>
+        <em>, with Kristen Valentine, and Jenny Li Zhang</em>
+      </div>
+      <ul>
+        <li>Developed from second chapter of dissertation</li>
+        <li>Conditionally Accepted at Journal of Accounting Research</li>
+      </ul>
+    </li>
+  </ol>
 
-</div>
-
-<div>
-<div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429511">Strategic Scientific Disclosure - Evidence from the Leahy-Smith America Invents Act</a></strong><em>, with Kristen Valentine, and Jenny Li Zhang  </em> </div>
- <ul>
-     <li>  Developed from second chapter of dissertation </li> 
-     <li>  Conditionally Accepted at Journal of Accouting Research </li> 
-     
-  </ul>
-
-</div>
-
-</ol>
 </div>
