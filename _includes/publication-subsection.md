@@ -33,7 +33,7 @@
   <em>, with Dawn Matsumoto and Jenny Li Zhang</em>
 </div>
 <ul>
-  <li>Revise&Resubmit at Journal of Accounting Research</li>
+  <li>Revise&Resubmit at Journal of Accounting and Economics</li>
 </ul>
 
 <div class="title">
