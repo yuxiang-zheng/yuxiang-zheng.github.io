@@ -7,6 +7,9 @@
 <ul>
   <li>Developed from first chapter of dissertation</li>
   <li>Conditionally Accepted at Contemporary Accounting Research</li>
+  <li><a href="https://github.com/yuxiang-zheng/Zheng2025_CAR">
+      Data
+    </a></li>
 </ul>
 
 <div class="title">
