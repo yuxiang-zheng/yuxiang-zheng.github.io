@@ -1,4 +1,4 @@
-<h4 style="margin: 0 12px; font-size: 1.5rem; font-weight: bold;">Publication and Conditional Acceptance</h4>
+<h4 style="margin: 0; font-size: 1.8rem; font-weight: bold;">Publication and Conditional Acceptance</h4>
 <div class="title">
   <strong>Can Investors Learn From Patent Documents? Evidence from Textual Analysis</strong>
   <em>, solo-authored</em>
