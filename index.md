@@ -1,6 +1,8 @@
 ---
 layout: homepage
 ---
+{% include_relative _includes/header.md %}
+
 
 ## Short Bio
 
