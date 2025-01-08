@@ -16,5 +16,5 @@ Please feel free to reach out and connect via yuxiang.zheng@rutgers.edu!
 {% include_relative _includes/cv.md %}
 
 ## Research
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publication-subsection.md %}
 
