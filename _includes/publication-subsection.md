@@ -21,3 +21,14 @@
   <li>Conditionally Accepted at Journal of Accounting Research</li>
 </ul>
 
+
+<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Working Papers</h4>
+<div class="title">
+  <strong>
+      Do Investor Preferences Affect Analyst Research? Evidence from Chinese Dual-Listed Shares
+  </strong>
+  <em>, with Dawn Matsumoto, and Jenny Li Zhang</em>
+</div>
+<ul>
+  <li>Revise&Resubmit at Journal of Accounting Research</li>
+</ul>
