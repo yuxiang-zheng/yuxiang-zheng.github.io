@@ -2,21 +2,18 @@
 layout: homepage
 ---
 
-## About Me
+## Short Bio
 
-I am a Ph.D. student at ...
+Welcome to my website! I am an Assistant Professor of Accounting at Rutgers School of Business Camden, Rutgers University.
 
-## Research Interests
+Research interests: archival-based studies in financial accounting - with special focuses on intangible assets, innovation, financial analysts, corporate social responsibility, machine learning, etc.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I obtained my Ph.D. from the University of British Columbia, the Master of Science degree in Finance and Economics from the London School of Economics and the Bachelor of Science degree in Financial Engineering from Wuhan University.
 
-## News
+Please feel free to reach out and connect via yuxiang.zheng@rutgers.edu!
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## CV
+
 
 {% include_relative _includes/publications.md %}
 
