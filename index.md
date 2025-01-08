@@ -1,9 +1,6 @@
 ---
 layout: homepage
 ---
-{% include_relative _includes/header.md %}
-
-
 ## Short Bio
 
 Welcome to my website! I am an Assistant Professor of Accounting at Rutgers School of Business Camden, Rutgers University.
