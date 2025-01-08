@@ -1,5 +1,4 @@
 <h4 style="margin: 0 12px; font-size: 1.5rem; font-weight: bold;">Publication and Conditional Acceptance</h4>
-<li>
 <div class="title">
   <strong>Can Investors Learn From Patent Documents? Evidence from Textual Analysis</strong>
   <em>, solo-authored</em>
@@ -8,8 +7,7 @@
   <li>Developed from first chapter of dissertation</li>
   <li>Conditionally Accepted at Contemporary Accounting Research</li>
 </ul>
-</li>
-<li>
+
 <div class="title">
   <strong>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429511">
@@ -22,4 +20,4 @@
   <li>Developed from second chapter of dissertation</li>
   <li>Conditionally Accepted at Journal of Accounting Research</li>
 </ul>
-</li>
+
