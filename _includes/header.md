@@ -1,5 +1,5 @@
 <div class="topnav">
-      <a href="https://www.ualberta.ca/index.html"><img width="230" src="./assets/img/rutgers_logo.png"></a>
+      <a href="https://www.rutgers.edu"><img width="230" src="./assets/img/rutgers_logo.png"></a>
       <div id="myLinks">     
     <a class="normal right" href="./#teaching">Teaching</a>
     <a class="normal" href="./#research">Research</a>
