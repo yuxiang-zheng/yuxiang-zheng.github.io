@@ -1,6 +1,6 @@
 <h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Publication and Conditional Acceptance</h4>
 <div class="title">
-  " [1] "
+  [1]
   <strong>Can Investors Learn From Patent Documents? Evidence from Textual Analysis</strong>
   <em>, solo-authored</em>
 </div>
@@ -10,7 +10,7 @@
 </ul>
 
 <div class="title">
-  " [2] "
+  [2]
   <strong>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429511">
       Strategic Scientific Disclosure - Evidence from the Leahy-Smith America Invents Act
@@ -26,7 +26,7 @@
 
 <h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Selected Working Papers</h4>
 <div class="title">
-  " [3] "
+  [3]
   <strong>
       Do Investor Preferences Affect Analyst Research? Evidence from Chinese Dual-Listed Shares
   </strong>
@@ -37,7 +37,7 @@
 </ul>
 
 <div class="title">
-  " [4] "
+  [4]
   <strong>
       The Economic and Financial Impact of Negative Environmental and Social Practices: Evidence from
 Consumers Store Visits
@@ -49,7 +49,7 @@ Consumers Store Visits
 </ul>
 
 <div class="title">
-  " [5] "
+  [5]
   <strong>
       The Industry Expertise Channel of Mortgage Lending
   </strong>
