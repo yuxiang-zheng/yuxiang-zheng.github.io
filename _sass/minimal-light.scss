@@ -596,42 +596,41 @@ footer {
   font-family: monospace;
 }
 
-.topnav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 5px 15px;
-  background-color: #fff; // Light gray background
-  height: 30px; // Set a fixed height if needed
-  
-  .logo {
-    img {
-      width: 100px;
-      margin-top: 10px;
-    }
-  }
+topnav {
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 10px 20px;
+background-color: #fff; // Light gray background
 
-  .navbar {
-    display: flex;
-    gap: 20px; // Space between navigation links
-
-    a {
-      text-decoration: none;
-      color: #333;
-      font-size: 1rem;
-      font-weight: 500;
-      transition: color 0.3s ease;
-
-      &:hover {
-        color: #0056b3; // Change color on hover
-      }
-    }
-  }
+.logo {
+img {
+width: 130px;
+margin-top: 10px;
+}
 }
 
-.topnav {
-  position: sticky;
-  top: 0;
-  z-index: 999; // Ensure it stays above other content
+.navbar {
+display: flex;
+gap: 20px; // Space between navigation links
+
+a {
+text-decoration: none;
+color: #333;
+font-size: 1rem;
+font-weight: 500;
+transition: color 0.3s ease;
+
+&:hover {
+color: #0056b3; // Change color on hover
 }
+}
+}
+}
+.topnav {
+position: sticky;
+top: 0;
+z-index: 1000; // Ensure it stays above other content
+}
+
 
