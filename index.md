@@ -7,11 +7,11 @@ Welcome to my website! I am an Assistant Professor of Accounting at Rutgers Scho
 
 Please feel free to reach out and connect via <a href="mailto:yuxiang.zheng@rutgers.edu">yuxiang.zheng@rutgers.edu</a>!
 
-## Research interests
-Archival-based studies in financial accounting - with special focuses on intangible assets, innovation, financial analysts, corporate social responsibility, textual analysis and machine learning.
-
 ## CV
 {% include_relative _includes/cv.md %}
+
+## Research interests
+Archival-based studies in financial accounting - with special focuses on intangible assets, innovation, financial analysts, corporate social responsibility, textual analysis and machine learning.
 
 ## Research
 {% include_relative _includes/publication-subsection.md %}
