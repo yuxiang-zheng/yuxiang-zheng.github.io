@@ -17,3 +17,6 @@ Please feel free to reach out and connect via <a href="mailto:yuxiang.zheng@rutg
 ## Research
 {% include_relative _includes/publication-subsection.md %}
 
+## Teaching
+{% include_relative _includes/teaching.md %}
+
