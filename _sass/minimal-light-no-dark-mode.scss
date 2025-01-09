@@ -518,23 +518,24 @@ footer {
 }
 
 
+
 .topnav {
 display: flex;
 align-items: center;
 justify-content: space-between;
-padding: 10px 15px;
+padding: 10px 20px;
 background-color: #ffffff; // Light gray background
 
 .logo {
 img {
-width: 110px;
+width: 130px;
 margin-top: 10px;
 }
 }
 
 .navbar {
 display: flex;
-gap: 2px; // Space between navigation links
+gap: 20px; // Space between navigation links
 
 a {
 text-decoration: none;
@@ -549,6 +550,7 @@ color: #0056b3; // Change color on hover
 }
 }
 }
+
 .topnav {
 position: fixed;
 top: 0;
