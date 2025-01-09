@@ -521,12 +521,13 @@ footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 20px;
-  background-color: #f8f9fa; // Light gray background
-
+  padding: 5px 15px;
+  background-color: #fff; // Light gray background
+  height: 30px; // Set a fixed height if needed
+  
   .logo {
     img {
-      width: 130px;
+      width: 100px;
       margin-top: 10px;
     }
   }
@@ -552,5 +553,5 @@ footer {
 .topnav {
   position: sticky;
   top: 0;
-  z-index: 1000; // Ensure it stays above other content
+  z-index: 999; // Ensure it stays above other content
 }
