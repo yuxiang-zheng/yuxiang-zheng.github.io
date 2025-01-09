@@ -521,6 +521,7 @@ footer {
 
 
 .topnav {
+  width: 100%; /* Ensure it spans the full width */
   position: fixed;
   top: 0;
   z-index: 999; // Ensure it stays above other content
