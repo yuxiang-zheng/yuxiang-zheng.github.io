@@ -1,7 +1,11 @@
 <h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Publications & Accepted Manuscripts</h4>
 <div class="title">
   [1]
-  <strong>Can Investors Learn From Patent Documents? Evidence from Textual Analysis</strong>
+  <strong>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5108138">
+    Can Investors Learn From Patent Documents? Evidence from Textual Analysis
+    </a>
+    </strong>
   <em>, solo-authored</em>
 </div>
 <ul>
