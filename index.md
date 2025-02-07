@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## About Me
 
-Welcome to my website! I am an Assistant Professor of Accounting at Rutgers School of Business Camden, Rutgers University. I obtained my Ph.D. from the University of British Columbia.
+Welcome to my website! My name is Yuxiang Zheng/郑宇翔。 I am an Assistant Professor of Accounting at Rutgers School of Business Camden, Rutgers University. I obtained my Ph.D. from the Sauder School of Business, University of British Columbia.
 
 Research interests: archival-based studies in financial accounting - with special focuses on intangible assets, innovation, financial analysts, corporate social responsibility, textual analysis and machine learning.
 
