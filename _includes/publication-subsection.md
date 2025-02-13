@@ -10,7 +10,7 @@
 </div>
 <ul>
   <li>Developed from first chapter of dissertation</li>
-  <li>Accepted at Contemporary Accounting Research</li>
+  <li>Forthcoming at Contemporary Accounting Research</li>
   <li><a href="https://github.com/yuxiang-zheng/Zheng2025_CAR">
       Data
     </a></li>
@@ -27,7 +27,7 @@
 </div>
 <ul>
   <li>Developed from second chapter of dissertation</li>
-  <li>Conditionally Accepted at Journal of Accounting Research</li>
+  <li>Forthcoming at Journal of Accounting Research</li>
 </ul>
 
 
