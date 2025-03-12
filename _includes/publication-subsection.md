@@ -19,7 +19,7 @@
 <div class="title">
   [2]
   <strong>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429511">
+    <a href="http://doi.org/10.1111/1475-679X.12605">
       Strategic Scientific Disclosure - Evidence from the Leahy-Smith America Invents Act
     </a>
   </strong>
@@ -27,7 +27,7 @@
 </div>
 <ul>
   <li>Developed from second chapter of dissertation</li>
-  <li>Forthcoming at Journal of Accounting Research</li>
+  <li>Journal of Accounting Research (2025)</li>
 </ul>
 
 
