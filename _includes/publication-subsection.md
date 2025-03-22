@@ -30,6 +30,17 @@
   <li>Journal of Accounting Research (2025)</li>
 </ul>
 
+<div class="title">
+  [3]
+  <strong>
+      The Industry Expertise Channel of Mortgage Lending
+  </strong>
+  <em>, with Yongqiang Chu and Zhanbing Xiao</em>
+</div>
+<ul>
+  <li>Conditionally Accepted at Journal of Financial and Quantitative Analysis</li>
+</ul>
+
 
 <h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Selected Working Papers</h4>
 <div class="title">
@@ -55,13 +66,3 @@ Consumers Store Visits
   <li>Revise&Resubmit at Review of Accounting Studies</li>
 </ul>
 
-<div class="title">
-  [5]
-  <strong>
-      The Industry Expertise Channel of Mortgage Lending
-  </strong>
-  <em>, with Yongqiang Chu and Zhanbing Xiao</em>
-</div>
-<ul>
-  <li>Revise&Resubmit at Journal of Financial and Quantitative Analysis</li>
-</ul>
