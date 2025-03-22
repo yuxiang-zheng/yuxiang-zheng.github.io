@@ -44,7 +44,7 @@
 
 <h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Selected Working Papers</h4>
 <div class="title">
-  [3]
+  [4]
   <strong>
       Do Investor Preferences Affect Analyst Research? Evidence from Chinese Dual-Listed Shares
   </strong>
@@ -55,7 +55,7 @@
 </ul>
 
 <div class="title">
-  [4]
+  [5]
   <strong>
       The Economic and Financial Impact of Negative Environmental and Social Practices: Evidence from
 Consumers Store Visits
