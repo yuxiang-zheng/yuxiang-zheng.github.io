@@ -10,7 +10,7 @@
 </div>
 <ul>
   <li>Developed from first chapter of dissertation</li>
-  <li>Forthcoming at Contemporary Accounting Research</li>
+  <li>Forthcoming at <strong>Contemporary Accounting Research</strong>strong></li>
   <li><a href="https://github.com/yuxiang-zheng/Zheng2025_CAR">
       Data
     </a></li>
@@ -27,7 +27,7 @@
 </div>
 <ul>
   <li>Developed from second chapter of dissertation</li>
-  <li>Journal of Accounting Research (2025)</li>
+  <li><strong>Journal of Accounting Research</strong>strong> (2025)</li>
 </ul>
 
 <div class="title">
@@ -38,7 +38,7 @@
   <em>, with Yongqiang Chu and Zhanbing Xiao</em>
 </div>
 <ul>
-  <li>Conditionally Accepted at Journal of Financial and Quantitative Analysis</li>
+  <li>Conditionally Accepted at <strong>Journal of Financial and Quantitative Analysis</strong>strong></li>
 </ul>
 
 
@@ -51,7 +51,7 @@
   <em>, with Dawn Matsumoto and Jenny Li Zhang</em>
 </div>
 <ul>
-  <li>Revise&Resubmit at Journal of Accounting and Economics</li>
+  <li>Revise&Resubmit at <strong>Journal of Accounting and Economics</strong>strong></li>
 </ul>
 
 <div class="title">
@@ -63,6 +63,6 @@ Consumers Store Visits
   <em>, with Zhanbing Xiao and Xin Zheng</em>
 </div>
 <ul>
-  <li>Revise&Resubmit at Review of Accounting Studies</li>
+  <li>Revise&Resubmit at <strong>Review of Accounting Studies</strong>strong></li>
 </ul>
 
