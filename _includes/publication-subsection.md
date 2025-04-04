@@ -9,7 +9,6 @@
   <em>, solo-authored</em>
 </div>
 <ul>
-  <li>Developed from first chapter of dissertation</li>
   <li>Forthcoming at <strong>Contemporary Accounting Research</strong></li>
   <li><a href="https://github.com/yuxiang-zheng/Zheng2025_CAR">
       Data
@@ -26,7 +25,6 @@
   <em>, with Kristen Valentine and Jenny Li Zhang</em>
 </div>
 <ul>
-  <li>Developed from second chapter of dissertation</li>
   <li><strong>Journal of Accounting Research</strong> (2025)</li>
 </ul>
 
