@@ -2,14 +2,14 @@
 <div class="title">
   [1]
   <strong>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5108138">
+    <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1911-3846.13036">
     Can Investors Learn From Patent Documents? Evidence from Textual Analysis
     </a>
     </strong>
   <em>, solo-authored</em>
 </div>
 <ul>
-  <li>Forthcoming at <strong>Contemporary Accounting Research</strong></li>
+  <li><strong>Contemporary Accounting Research</strong> (2025)</li>
   <li><a href="https://github.com/yuxiang-zheng/Zheng2025_CAR">
       Data
     </a></li>
