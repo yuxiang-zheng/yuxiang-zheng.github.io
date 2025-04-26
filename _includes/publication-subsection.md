@@ -36,7 +36,7 @@
   <em>, with Yongqiang Chu and Zhanbing Xiao</em>
 </div>
 <ul>
-  <li>Conditionally Accepted at <strong>Journal of Financial and Quantitative Analysis</strong></li>
+  <li>Forthcoming at <strong>Journal of Financial and Quantitative Analysis</strong></li>
 </ul>
 
 
