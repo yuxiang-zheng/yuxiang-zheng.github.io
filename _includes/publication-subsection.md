@@ -55,7 +55,7 @@
 </ul>
 
 <div class="title">
-  [6]
+  [5]
   <strong>
       The Economic and Financial Impact of Negative Environmental and Social Practices: Evidence from
 Consumers Store Visits
@@ -67,7 +67,7 @@ Consumers Store Visits
 </ul>
 
 <div class="title">
-  [5]
+  [6]
   <strong>
       Capital Market-related Agglomeration Spillovers: Evidence from Million Dollar Plant Expansions
   </strong>
