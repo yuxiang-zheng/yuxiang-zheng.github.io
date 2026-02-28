@@ -31,12 +31,14 @@
 <div class="title">
   [3]
   <strong>
+    <a href="https://doi.org/10.1017/S002210902510210X">
       The Industry Expertise Channel of Mortgage Lending
+    </a>
   </strong>
   <em>, with Yongqiang Chu and Zhanbing Xiao</em>
 </div>
 <ul>
-  <li>Forthcoming at <strong>Journal of Financial and Quantitative Analysis</strong></li>
+  <li><strong>Journal of Financial and Quantitative Analysis</strong> (2026)</li>
 </ul>
 
 
@@ -64,3 +66,13 @@ Consumers Store Visits
   <li>Revise&Resubmit at <strong>Review of Accounting Studies</strong></li>
 </ul>
 
+<div class="title">
+  [5]
+  <strong>
+      Capital Market-related Agglomeration Spillovers: Evidence from Million Dollar Plant Expansions
+  </strong>
+  <em>, with Dawn Matsumoto, Yongoh Roh, and Yaping Zheng</em>
+</div>
+<ul>
+  <li>Revise&Resubmit at <strong>Journal of Accounting Research</strong></li>
+</ul>
