@@ -41,8 +41,6 @@
   <li><strong>Journal of Financial and Quantitative Analysis</strong> (2026)</li>
 </ul>
 
-
-<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Selected Working Papers</h4>
 <div class="title">
   [4]
   <strong>
@@ -51,8 +49,11 @@
   <em>, with Dawn Matsumoto and Jenny Li Zhang</em>
 </div>
 <ul>
-  <li>Revise&Resubmit at <strong>Journal of Accounting and Economics</strong></li>
+  <li><strong>Journal of Accounting and Economics</strong> Forthcoming</li>
 </ul>
+
+<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Selected Working Papers</h4>
+
 
 <div class="title">
   [5]
