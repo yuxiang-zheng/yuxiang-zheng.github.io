@@ -49,7 +49,7 @@
   <em>, with Dawn Matsumoto and Jenny Li Zhang</em>
 </div>
 <ul>
-  <li><strong>Journal of Accounting and Economics</strong> Forthcoming</li>
+  <li><strong>Journal of Accounting and Economics</strong>, Forthcoming</li>
 </ul>
 
 <h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Selected Working Papers</h4>
