@@ -57,8 +57,8 @@
 <div class="title">
   [5]
   <strong>
-      The Economic and Financial Impact of Negative Environmental and Social Practices: Evidence from
-Consumers Store Visits
+      From Incidents to Outcomes: Consumer Reactions and Firm Responses to Negative Environmental
+and Social Practices
   </strong>
   <em>, with Zhanbing Xiao and Xin Zheng</em>
 </div>
