@@ -1,4 +1,4 @@
-<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Publications & Accepted Manuscripts</h4>
+<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Selected Publications</h4>
 <div class="title">
   [1]
   <strong>
