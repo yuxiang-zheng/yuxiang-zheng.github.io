@@ -1,1 +1,1 @@
-<p>My CV can be found <a href="assets/files/cv.pdf">here</a> (Last update: Feb. 2026).</p>
+<p>My CV can be found <a href="assets/files/cv.pdf">here</a> (Last update: July 2026).</p>
