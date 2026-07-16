@@ -44,16 +44,15 @@
 <div class="title">
   [4]
   <strong>
+    <a href="https://doi.org/10.1016/j.jacceco.2026.101897">
       Do Investor Preferences Affect Analyst Research? Evidence from Chinese Dual-Listed Shares
+    </a>
   </strong>
   <em>, with Dawn Matsumoto and Jenny Li Zhang</em>
 </div>
 <ul>
   <li><strong>Journal of Accounting and Economics</strong>, Forthcoming</li>
 </ul>
-
-<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Selected Working Papers</h4>
-
 
 <div class="title">
   [5]
@@ -64,8 +63,10 @@ Consumers Store Visits
   <em>, with Zhanbing Xiao and Xin Zheng</em>
 </div>
 <ul>
-  <li>Revise&Resubmit at <strong>Review of Accounting Studies</strong></li>
+  <li><strong>Review of Accounting Studies</strong>, Forthcoming</li>
 </ul>
+
+<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Selected Working Papers</h4>
 
 <div class="title">
   [6]
